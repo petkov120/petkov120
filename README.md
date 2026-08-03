@@ -1,76 +1,71 @@
-<h1 align="center">Hi 👋, I'm Chakalov Petkov</h1>
-<h3 align="center">Design Engineer • Product Designer • AI Builder</h3>
+<h1 align="center">Chakalov Petkov</h1>
+<h3 align="center">Design Engineer · Product Designer · AI Builder</h3>
 
 <p align="center">
-Building beautiful products with code, design and AI.
+I design and build thoughtful digital products at the intersection of interface design, frontend engineering, and AI.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=petkov120&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🚀 About Me
-
-- 🎨 Design Engineer
-- 💻 React • TypeScript • Next.js
-- 🤖 Building AI Products
-- 🌍 Based in Nigeria
-- 📚 Computer Science Graduate
-- ⚡ Love creating products people actually enjoy using
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=petkov120&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petkov120&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=petkov120&theme=github-dark-blue" />
+  <a href="https://chakalov-petkov-richard-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=petkov120&style=for-the-badge&color=111827" alt="Profile views" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## About me
 
-### Frontend
+- Design engineer focused on turning complex workflows into clear, usable products.
+- Building with **React, TypeScript, Next.js, Tailwind CSS, and AI tools**.
+- Experienced across healthcare, education, civic technology, and productivity products.
+- Computer Science graduate based in Nigeria.
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwind-css)
+## Selected work
 
-### Design
+| Project | What it is | Stack |
+|---|---|---|
+| [DrainWatch](https://github.com/petkov120/drainwatch) | Civic-tech platform for reporting and tracking flood and drainage issues. | TypeScript, React |
+| [Origami OS](https://github.com/petkov120/origami-os) | Open-source Linux shell and interface experiment. | TypeScript |
+| [Batch Calls — Clinify](https://github.com/petkov120/Batch-Calls-Clinify) | Healthcare communication workflow for managing outbound patient calls. | TypeScript |
+| [Hospital Clinic Patient Portal](https://github.com/petkov120/Hospital-Clinic-Patient-Portal) | Patient-facing healthcare portal and interface system. | CSS, Frontend |
+| [Exam Dashboard](https://github.com/petkov120/Exam-Dashboard) | Dashboard experience for managing examination workflows. | CSS, Frontend |
 
-![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
+## Tools I work with
 
-### AI
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-- OpenAI
-- Claude
-- Gemini
-- Cursor
-- Vercel AI SDK
+## GitHub activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petkov120&theme=github_dark" alt="GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petkov120&theme=github_dark" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petkov120&theme=github_dark" alt="Top languages by commits" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petkov120&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petkov120&theme=github_dark&utcOffset=1" alt="Productive coding time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=petkov120&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚨 DrainWatch | Civic Tech flood reporting platform |
-| 🏥 Clinify | Healthcare communication platform |
-| 🧪 Origami OS | Open Source Linux Shell |
-| 🎓 Exam Dashboard | Educational dashboard |
-
----
-
-# 📫 Connect
-
-- Portfolio: https://chakalov-petkov-richard-portfolio.vercel.app
-- LinkedIn: *(add yours)*
-- Twitter/X: *(add yours)*
+<p align="center">
+  <strong>Designing the experience. Building the interface. Shipping the product.</strong>
+</p>
