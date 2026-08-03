@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Chakalov Petkov
 
-<!--
-**petkov120/petkov120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design Engineer • Product Designer • AI Builder
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petkov120&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petkov120&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=petkov120&theme=tokyonight&hide_border=true)
+
+---
+### Tech Stack
+
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Figma
+- AI Engineering
