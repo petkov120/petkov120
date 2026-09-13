@@ -21,15 +21,6 @@ I design and build thoughtful digital products at the intersection of interface 
 - Experienced across healthcare, education, civic technology, and productivity products.
 - Computer Science graduate based in Nigeria.
 
-## Selected work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [DrainWatch](https://github.com/petkov120/drainwatch) | Civic-tech platform for reporting and tracking flood and drainage issues. | TypeScript, React |
-| [Origami OS](https://github.com/petkov120/origami-os) | Open-source Linux shell and interface experiment. | TypeScript |
-| [Batch Calls — Clinify](https://github.com/petkov120/Batch-Calls-Clinify) | Healthcare communication workflow for managing outbound patient calls. | TypeScript |
-| [Hospital Clinic Patient Portal](https://github.com/petkov120/Hospital-Clinic-Patient-Portal) | Patient-facing healthcare portal and interface system. | CSS, Frontend |
-| [Exam Dashboard](https://github.com/petkov120/Exam-Dashboard) | Dashboard experience for managing examination workflows. | CSS, Frontend |
 
 ## Tools I work with
 
